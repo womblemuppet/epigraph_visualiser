@@ -1,0 +1,515 @@
+{
+  "BUKO": {
+    "nari": "BUKO",
+    "english": "Gods",
+    "english_tense_1": "",
+    "english_tense_2": "To the Gods",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 7
+  },
+  "ZHAKI": {
+    "nari": "ZHAKI",
+    "english": "",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 5
+  },
+  "BOFO": {
+    "nari": "BOFO",
+    "english": "",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 5
+  },
+  "KARO": {
+    "nari": "KARO",
+    "english": "",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 5
+  },
+  "NUNO": {
+    "nari": "NUNO",
+    "english": "We/Tribe/Us",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 8
+  },
+  "TUKI": {
+    "nari": "TUKI",
+    "english": "All",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 8
+  },
+  "WO": {
+    "nari": "WO",
+    "english": "And",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 9
+  },
+  "FUMUBU": {
+    "nari": "FUMUBU",
+    "english": "Speak",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence":5
+  },
+  "WUZHI": {
+    "nari": "WUZHI",
+    "english": "Fight",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 4
+  },
+  "ZHUKATI": {
+    "nari": "ZHUKATI",
+    "english": "",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 5
+  },
+  "MA": {
+    "nari": "MA",
+    "english": "",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 5
+  },
+  "1": {
+    "nari": "1",
+    "english": "",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 5
+  },
+  "FUWA": {
+    "nari": "FUWA",
+    "english": "Power",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 4
+  },
+  "WUBU": {
+    "nari": "WUBU",
+    "english": "Person",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 5
+  },
+  "BOKI": {
+    "nari": "BOKI",
+    "english": "Gift",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 8
+  },
+  "RUFU": {
+    "nari": "RUFU",
+    "english": "",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 5
+  },
+  "SHUZHU": {
+    "nari": "SHUZHU",
+    "english": "",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 5
+  },
+  "WUWAPA": {
+    "nari": "WUWAPA",
+    "english": "Together",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 6
+  },
+  "SHOROSHO": {
+    "nari": "SHOROSHO",
+    "english": "",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 5
+  },
+  "NUNA": {
+    "nari": "NUNA",
+    "english": "",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 5
+  },
+  "FUKU": {
+    "nari": "FUKU",
+    "english": "",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 5
+  },
+  "FORU": {
+    "nari": "FORU",
+    "english": "",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 5
+  },
+  "KUWUNO": {
+    "nari": "KUWUNO",
+    "english": "Sky",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 3
+  },
+  "ZHATI": {
+    "nari": "ZHATI",
+    "english": "",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 5
+  },
+  "MIKOBO": {
+    "nari": "MIKOBO",
+    "english": "We/Us/Tribe",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 5
+  },
+  "ZHOSHO": {
+    "nari": "ZHOSHO",
+    "english": "",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence":  5
+  },
+  "SHOKANO": {
+    "nari": "SHOKANO",
+    "english": "Continue",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 5
+  },
+  "KIKU": {
+    "nari": "KIKU",
+    "english": "Work",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 4
+  },
+  "SHUBONO": {
+    "nari": "SHUBONO",
+    "english": "Us",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 4
+  },
+  "ZHATA": {
+    "nari": "ZHATA",
+    "english": "Other",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 4
+  },
+  "WABO": {
+    "nari": "WABO",
+    "english": "Conquer",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 8
+  },
+  "ZHUWI": {
+    "nari": "ZHUWI",
+    "english": "Fear",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 5
+  },
+  "RONI": {
+    "nari": "RONI",
+    "english": "First",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 4
+  },
+  "SHUTA": {
+    "nari": "SHUTA",
+    "english": "Picture",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 3
+  },
+  "RIWOKO": {
+    "nari": "RIWOKO",
+    "english": "Stop",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 4
+  },
+  "DOGIMU": {
+    "nari": "DOGIMU",
+    "english": "Contact",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 5
+  },
+  "FIBIZHA": {
+    "nari": "FIBIZHA",
+    "english": "King",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 10
+  },
+  "TIBONU": {
+    "nari": "TIBONU",
+    "english": "",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 5
+  },
+  "BAKUZHA": {
+    "nari": "BAKUZHA",
+    "english": "",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 5
+  },
+  "MAKUDOWU": {
+    "nari": "MAKUDOWU",
+    "english": "",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 5
+  },
+  "GUBUGI": {
+    "nari": "GUBUGI",
+    "english": "With/To",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 3
+  },
+  "NARI": {
+    "nari": "NARI",
+    "english": "Nari",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 10
+  },
+  "MINA": {
+    "nari": "MINA",
+    "english": "",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 5
+  },
+  "GOWU": {
+    "nari": "GOWU",
+    "english": "Meaning/Writing",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 5
+  },
+  "SHIKA": {
+    "nari": "SHIKA",
+    "english": "Wise",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 9
+  },
+  "SHORI": {
+    "nari": "SHORI",
+    "english": "Shori",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 10
+  },
+  "DUMA": {
+    "nari": "DUMA",
+    "english": "",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 5
+  },
+  "KUMI": {
+    "nari": "KUMI",
+    "english": "Hide",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 7
+  },
+  "KISHIZHI": {
+    "nari": "KISHIZHI",
+    "english": "Gem/Wall",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 3
+  },
+  "MUFUZHU": {
+    "nari": "MUFUZHU",
+    "english": "Temple",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 6
+  },
+  "PAGOMARU": {
+    "nari": "PAGOMARU",
+    "english": "",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 5
+  },
+  "GURO": {
+    "nari": "GURO",
+    "english": "",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 5
+  },
+  "SHURIBI": {
+    "nari": "SHURIBI",
+    "english": "",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 5
+  },
+  "ZHUWU": {
+    "nari": "ZHUWU",
+    "english": "Stone",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 9
+  },
+  "BONU": {
+    "nari": "BONU",
+    "english": "Small/Big",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 2
+  },
+  "DUSHO": {
+    "nari": "DUSHO",
+    "english": "House",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 2
+  },
+  "GOZHA": {
+    "nari": "GOZHA",
+    "english": "Village",
+    "english_tense_1": "",
+    "english_tense_2": "",
+    "english_tense_3": "",
+    "english_tense_4": "",
+    "confidence": 9
+  }
+}

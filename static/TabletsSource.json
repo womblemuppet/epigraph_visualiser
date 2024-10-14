@@ -1,0 +1,731 @@
+[
+  {
+    "sentences": [
+      [
+        {
+          "nari": "BUKO",
+          "tense": 2
+        },
+        {
+          "nari": "ZHAKI",
+          "tense": 0
+        },
+        {
+          "nari": "BOFO",
+          "tense": 0
+        },
+        {
+          "nari": "KARO",
+          "tense": 0
+        },
+        {
+          "nari": "NUNO",
+          "tense": 0
+        },
+        {
+          "nari": "TUKI",
+          "tense": 0
+        },
+        {
+          "nari": "WO",
+          "tense": 0
+        },
+        {
+          "nari": "FUMUBU",
+          "tense": 0
+        },
+        {
+          "nari": "WUZHI",
+          "tense": 0
+        },
+        {
+          "nari": "KARO",
+          "tense": 0
+        }
+      ]
+    ],
+    "name": "Obelisk 1"
+  },
+  {
+    "sentences": [
+      [
+        {
+          "nari": "ZHUKATI",
+          "tense": 0
+        },
+        {
+          "nari": "BUKO",
+          "tense": 0
+        },
+        {
+          "nari": "MA",
+          "tense": 0
+        },
+        {
+          "nari": "1",
+          "tense": 0
+        },
+        {
+          "nari": "FUWA",
+          "tense": 0
+        },
+        {
+          "nari": "WUBU",
+          "tense": 0
+        },
+        {
+          "nari": "BOKI",
+          "tense": 0
+        },
+        {
+          "nari": "RUFU",
+          "tense": 0
+        },
+        {
+          "nari": "SHUZHU",
+          "tense": 0
+        },
+        {
+          "nari": "WUWAPA",
+          "tense": 0
+        },
+        {
+          "nari": "FUWA",
+          "tense": 0
+        },
+        {
+          "nari": "SHOROSHO",
+          "tense": 0
+        },
+        {
+          "nari": "KARO",
+          "tense": 0
+        },
+        {
+          "nari": "TUKI",
+          "tense": 0
+        },
+        {
+          "nari": "NUNA",
+          "tense": 0
+        },
+        {
+          "nari": "NUNO",
+          "tense": 0
+        }
+      ]
+    ],
+    "name": "Obelisk 2"
+  },
+  {
+    "sentences": [
+      [
+        {
+          "nari": "SHOROSHO",
+          "tense": 0
+        },
+        {
+          "nari": "WUBU",
+          "tense": 0
+        },
+        {
+          "nari": "BUKO",
+          "tense": 0
+        },
+        {
+          "nari": "NUNA",
+          "tense": 0
+        },
+        {
+          "nari": "FUKU",
+          "tense": 0
+        },
+        {
+          "nari": "BOKI",
+          "tense": 0
+        }
+      ]
+    ],
+    "name": "Obelisk 3"
+  },
+  {
+    "sentences": [
+      [
+        {
+          "nari": "FORU",
+          "tense": 0
+        },
+        {
+          "nari": "TUKI",
+          "tense": 0
+        },
+        {
+          "nari": "BUKO",
+          "tense": 0
+        },
+        {
+          "nari": "?",
+          "tense": 0
+        },
+        {
+          "nari": "1",
+          "tense": 0
+        },
+        {
+          "nari": "WO",
+          "tense": 0
+        },
+        {
+          "nari": "WUWAPA",
+          "tense": 0
+        },
+        {
+          "nari": "KUWUNO",
+          "tense": 0
+        },
+        {
+          "nari": "?",
+          "tense": 0
+        },
+        {
+          "nari": "?",
+          "tense": 0
+        },
+        {
+          "nari": "ZHAKI",
+          "tense": 0
+        },
+        {
+          "nari": "TUKI",
+          "tense": 0
+        },
+        {
+          "nari": "WUBU",
+          "tense": 0
+        },
+        {
+          "nari": "KARO",
+          "tense": 0
+        }
+      ]
+    ],
+    "name": "Obelisk 4"
+  },
+  {
+    "sentences": [
+      [
+        {
+          "nari": "ZHATI",
+          "tense": 0
+        },
+        {
+          "nari": "MIKOBO",
+          "tense": 0
+        },
+        {
+          "nari": "ZHOSHO",
+          "tense": 0
+        },
+        {
+          "nari": "SHOKANO",
+          "tense": 0
+        },
+        {
+          "nari": "KIKU",
+          "tense": 0
+        },
+        {
+          "nari": "NUNO",
+          "tense": 0
+        },
+        {
+          "nari": "SHUBONO",
+          "tense": 0
+        },
+        {
+          "nari": "RUFU",
+          "tense": 0
+        },
+        {
+          "nari": "SHUBONO",
+          "tense": 0
+        },
+        {
+          "nari": "ZHATA",
+          "tense": 0
+        },
+        {
+          "nari": "WABO",
+          "tense": 0
+        },
+        {
+          "nari": "ZHUWI",
+          "tense": 0
+        },
+        {
+          "nari": "RONI",
+          "tense": 0
+        },
+        {
+          "nari": "KARO",
+          "tense": 0
+        },
+        {
+          "nari": "NUNO",
+          "tense": 0
+        },
+        {
+          "nari": "FUKU",
+          "tense": 0
+        },
+        {
+          "nari": "BOFO",
+          "tense": 0
+        },
+        {
+          "nari": "KIKU",
+          "tense": 0
+        },
+        {
+          "nari": "SHUTA",
+          "tense": 0
+        },
+        {
+          "nari": "RIWOKO",
+          "tense": 0
+        },
+        {
+          "nari": "MIKOBO",
+          "tense": 0
+        },
+        {
+          "nari": "WO",
+          "tense": 0
+        },
+        {
+          "nari": "FUMUBU",
+          "tense": 0
+        },
+        {
+          "nari": "NUNA",
+          "tense": 0
+        },
+        {
+          "nari": "DOGIMU",
+          "tense": 0
+        },
+        {
+          "nari": "BUKO",
+          "tense": 0
+        }
+      ]
+    ],
+    "name": "Stele"
+  },
+  {
+    "sentences": [
+      [
+        {
+          "nari": "NUNO",
+          "tense": 0
+        }
+      ]
+    ],
+    "name": "Stele back"
+  },
+  {
+    "sentences": [
+      [
+        {
+          "nari": "FIBIZHA",
+          "tense": 0
+        },
+        {
+          "nari": "FUKU",
+          "tense": 0
+        },
+        {
+          "nari": "TIBONU",
+          "tense": 0
+        },
+        {
+          "nari": "BAKUZHA",
+          "tense": 0
+        },
+        {
+          "nari": "MAKUDOWU",
+          "tense": 0
+        },
+        {
+          "nari": "GUBUGI",
+          "tense": 0
+        }
+      ]
+    ],
+    "name": "Statue 1"
+  },
+  {
+    "sentences": [
+      [
+        {
+          "nari": "GUBUGI",
+          "tense": 0
+        },
+        {
+          "nari": "FIBIZHA",
+          "tense": 0
+        },
+        {
+          "nari": "FIBIZHA",
+          "tense": 0
+        }
+      ]
+    ],
+    "name": "Statue 2"
+  },
+  {
+    "sentences": [
+      [
+        {
+          "nari": "FUMUBU",
+          "tense": 0
+        },
+        {
+          "nari": "BUKO",
+          "tense": 0
+        },
+        {
+          "nari": "WUBU",
+          "tense": 0
+        }
+      ]
+    ],
+    "name": "Statue 3"
+  },
+  {
+    "sentences": [
+      [
+        {
+          "nari": "NARI",
+          "tense": 0
+        },
+        {
+          "nari": "GUBUGI",
+          "tense": 0
+        },
+        {
+          "nari": "MINA",
+          "tense": 0
+        }
+      ]
+    ],
+    "name": "Statue 4"
+  },
+  {
+    "sentences": [
+      [
+        {
+          "nari": "GUBUGI",
+          "tense": 0
+        },
+        {
+          "nari": "NUNA",
+          "tense": 0
+        },
+        {
+          "nari": "WUWAPA",
+          "tense": 0
+        },
+        {
+          "nari": "BUKO",
+          "tense": 0
+        },
+        {
+          "nari": "GOWU",
+          "tense": 0
+        }
+      ],
+      [
+        {
+          "nari": "FIBIZHA",
+          "tense": 0
+        },
+        {
+          "nari": "WUBU",
+          "tense": 0
+        },
+        {
+          "nari": "SHIKA",
+          "tense": 0
+        },
+        {
+          "nari": "KARO",
+          "tense": 0
+        },
+        {
+          "nari": "TUKI",
+          "tense": 0
+        },
+        {
+          "nari": "SHOROSHO",
+          "tense": 0
+        },
+        {
+          "nari": "NUNA",
+          "tense": 0
+        }
+      ]
+    ],
+    "name": "Mural 1"
+  },
+  {
+    "sentences": [
+      [
+        {
+          "nari": "SHORI",
+          "tense": 0
+        },
+        {
+          "nari": "KARO",
+          "tense": 0
+        },
+        {
+          "nari": "NUNO",
+          "tense": 0
+        },
+        {
+          "nari": "FUKU",
+          "tense": 0
+        },
+        {
+          "nari": "WUZHI",
+          "tense": 0
+        },
+        {
+          "nari": "DUMA",
+          "tense": 0
+        },
+        {
+          "nari": "KUMI",
+          "tense": 0
+        },
+        {
+          "nari": "KISHIZHI",
+          "tense": 0
+        }
+      ],
+      [
+        {
+          "nari": "GUBUGI",
+          "tense": 0
+        },
+        {
+          "nari": "MUFUZHU",
+          "tense": 0
+        },
+        {
+          "nari": "FUKU",
+          "tense": 0
+        },
+        {
+          "nari": "WUWAPA",
+          "tense": 0
+        },
+        {
+          "nari": "PAGOMARU",
+          "tense": 0
+        },
+        {
+          "nari": "FUMUBU",
+          "tense": 0
+        },
+        {
+          "nari": "BUKO",
+          "tense": 0
+        },
+        {
+          "nari": "GURO",
+          "tense": 0
+        }
+      ]
+    ],
+    "name": "Mural 2"
+  },
+  {
+    "sentences": [
+      [
+        {
+          "nari": "RONI",
+          "tense": 0
+        },
+        {
+          "nari": "WO",
+          "tense": 0
+        },
+        {
+          "nari": "WUWAPA",
+          "tense": 0
+        }
+      ]
+    ],
+    "name": "Tablet a"
+  },
+  {
+    "sentences": [
+      [
+        {
+          "nari": "GURO",
+          "tense": 0
+        },
+        {
+          "nari": "SHURIBI",
+          "tense": 0
+        },
+        {
+          "nari": "ZHUWU",
+          "tense": 0
+        },
+        {
+          "nari": "RONI",
+          "tense": 0
+        },
+        {
+          "nari": "FUMUBU",
+          "tense": 0
+        }
+      ]
+    ],
+    "name": "Tablet a 2"
+  },
+  {
+    "sentences": [
+      [
+        {
+          "nari": "NARI",
+          "tense": 0
+        },
+        {
+          "nari": "SHUTA",
+          "tense": 0
+        }
+      ],
+      [
+        {
+          "nari": "GOWU",
+          "tense": 0
+        },
+        {
+          "nari": "NARI",
+          "tense": 0
+        }
+      ],
+      [
+        {
+          "nari": "KUWUNO",
+          "tense": 0
+        },
+        {
+          "nari": "WUBU",
+          "tense": 0
+        },
+        {
+          "nari": "BONU",
+          "tense": 0
+        },
+        {
+          "nari": "DUSHO",
+          "tense": 0
+        },
+        {
+          "nari": "GOZHA",
+          "tense": 0
+        },
+        {
+          "nari": "KISHIZHI",
+          "tense": 0
+        }
+      ]
+    ],
+    "name": "Tablet b"
+  },
+  {
+    "sentences": [
+      [
+        {
+          "nari": "GURO",
+          "tense": 0
+        },
+        {
+          "nari": "SHURIBI",
+          "tense": 0
+        },
+        {
+          "nari": "ZHUWU",
+          "tense": 0
+        },
+        {
+          "nari": "RONI",
+          "tense": 0
+        },
+        {
+          "nari": "FUMUBU",
+          "tense": 0
+        }
+      ]
+    ],
+    "name": "Tablet b 2"
+  },
+  {
+    "sentences": [
+      [
+        {
+          "nari": "BUKO",
+          "tense": 0
+        },
+        {
+          "nari": "DUSHO",
+          "tense": 0
+        }
+      ]
+    ],
+    "name": "Artifact 1"
+  },
+  {
+    "sentences": [
+      [
+        {
+          "nari": "MINA",
+          "tense": 0
+        },
+        {
+          "nari": "WUBU",
+          "tense": 0
+        },
+        {
+          "nari": "SHIKA",
+          "tense": 0
+        }
+      ]
+    ],
+    "name": "Artifact 2"
+  },
+  {
+    "sentences": [
+      [
+        {
+          "nari": "SHUTA",
+          "tense": 0
+        },
+        {
+          "nari": "BUKO",
+          "tense": 0
+        },
+        {
+          "nari": "SHUTA",
+          "tense": 0
+        }
+      ]
+    ],
+    "name": "Artifact 3"
+  }
+]
