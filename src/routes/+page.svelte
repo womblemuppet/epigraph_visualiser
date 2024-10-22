@@ -103,7 +103,7 @@
 
     --green-highlight: rgb(40, 180, 122);
     --green-highlight-strong: rgb(9, 150, 91);
-    --element-colour-green-tint-1: rgb(235, 241, 237);
+    --element-colour-green-tint-1: rgb(211, 245, 222);
 
     --blue-highlight: #7eb8ee;
     --blue-highlight-strong: #1d82e0;

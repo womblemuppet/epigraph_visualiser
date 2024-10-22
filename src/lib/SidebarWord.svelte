@@ -29,15 +29,18 @@
 
     background-color: var(--element-colour-weak-1);
 
+
+    border-style: solid;
+    border-top-color: rgb(235, 235, 235);
+    border-top-width: 1px;
+
+    border-style: solid;
+    border-right-color: rgb(236, 236, 236);
+    border-right-width: 1px;
+
     border-bottom: none;
     border-left: none;
 
-    border-top-color: rgb(226, 226, 226);
-    border-top-width: 2px;
-
-    border-right-color: rgb(165, 165, 165);
-    border-right-width: 1px;
-    
     white-space: pre;
   }
 

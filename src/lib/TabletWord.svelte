@@ -42,7 +42,7 @@
 
 </script>
 
-<button style={`background-color: ${backgroundColor};`} on:click={clickTablet}>
+<button style:background-color={backgroundColor} on:click={clickTablet}>
   <p class="english">{ nariText || "-" }</p>
   <p style={`color: ${nariMainColor}; -webkit-text-stroke-width: ${nariTextWidth};`}>{nari}</p>
 </button>

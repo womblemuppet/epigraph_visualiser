@@ -31,7 +31,7 @@
     width: 25%;
     height: 85%;
     top: 1%;
-    right: 30px;
+    right: 1%;
 
     background-color: rgb(255, 255, 255);
     border-radius: 20px;
@@ -45,15 +45,14 @@
     overflow-y: scroll;
     width: 25%;
     height: 91%;
-    top: 5%;
+    top: 7%;
     right: 0;
   }
 
   .queryInputArea {
     position: relative;
-    top: 10px;
-    margin: 0 0 0 5px;
-    width: 88%;
+    top: 1%;
+    margin: 0 5% 0 3%;
 
     border: 0px;
 
@@ -68,6 +67,7 @@
     padding-top: 4px;
     border-radius: 12px;
     border: 2px solid var(--element-colour-weak-2);
+    width: 40%
   }
 
   .clearButton {
@@ -76,6 +76,7 @@
     background-color: rgb(255, 255, 255);
     text-transform: uppercase;
     height: 34px;
+    width: 20%
   }
 
   .englishQueryInput {
@@ -84,6 +85,7 @@
     padding-top: 4px;
     border-radius: 12px;
     border: 2px solid var(--element-colour-weak-2);
+    width: 40%
   }
 
   .clearButton:hover {

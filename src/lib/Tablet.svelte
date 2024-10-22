@@ -31,9 +31,6 @@
   .tablet {
     align-content: flex-start;
     flex-wrap: wrap;
-    /* border: solid;
-    border-width: 1px;
-    border-color:  rgb(219, 219, 219); */
     max-width: 250px;
     min-height: 300px;
     border-radius: 5px;
