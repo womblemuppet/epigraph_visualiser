@@ -6,7 +6,9 @@
 <script>
   import Sidebar from '../lib/Sidebar.svelte';
   import TabletList from '../lib/TabletList.svelte'
-  import { query } from '../stores.js'
+  import QueryDisplay from '../lib/QueryDisplay.svelte';
+
+  import { query, englishQuery } from '../stores.js'
   import { readable, writable } from 'svelte/store';
   import { setContext } from 'svelte';
 
@@ -68,17 +70,34 @@
     return sentencesWithMatchData    
   }
 
+  function filterWordsLookupByEnglish(wordsLookup, query) {
+    const filteredWordList = Object
+      .keys(wordsLookup)
+      .reduce(
+        function(acc, wordId) {
+          const queryMatchesEnglish = wordsLookup[wordId].english && 
+            wordsLookup[wordId].english.toLowerCase().includes(query)
+
+          if (queryMatchesEnglish)
+            return [...acc, wordsLookup[wordId]]
+          else
+            return acc
+        },
+        []
+      )
+
+    return filteredWordList
+  }
+
+  $: filteredWordsList = filterWordsLookupByEnglish($wordsLookup, $englishQuery)
+
 </script>
 
-<Sidebar words={data.wordsList}></Sidebar>
+<Sidebar words={filteredWordsList}></Sidebar>
 
 <div>
-  <div class="queryDisplay">
-    <p class="queryDisplayText">{$query}</p>
-  </div>
-
- <TabletList {tablets}></TabletList>
-
+  <QueryDisplay/>
+  <TabletList {tablets}></TabletList>
 </div>
 
 
@@ -114,21 +133,5 @@
     background-color: var(--main-background-colour);
   }
 
-  .queryDisplay {
-    margin: 10px 0 30px 0;
-    width: 72%;
-    height: 36px;
-    border-radius: 8px;
-
-    background-color: rgb(255, 255, 255);
-    background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(93, 238, 100, 0.02) );
-  }
-
-  .queryDisplayText {
-    padding: 4px;
-    font-size: 24px;
-    margin: 0px;
-    padding-left: 18px
-  }
 
 </style>

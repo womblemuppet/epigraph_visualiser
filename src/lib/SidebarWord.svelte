@@ -51,6 +51,7 @@
   .nari {
     color: var(--green-highlight);
     font-size: larger;
+    font-weight: 550;
     text-transform: uppercase;
   }
 
